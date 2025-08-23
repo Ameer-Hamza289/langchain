@@ -1,0 +1,7 @@
+.venv/
+firebase.json
+__pycache__/
+*.pyc
+.DS_Store
+config.bat
+node_modules
